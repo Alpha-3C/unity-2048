@@ -1344,7 +1344,8 @@ MonoBehaviour:
   GO1024: {fileID: 6981649901540303724, guid: e12776c02b68a22408b753ee913abf2f, type: 3}
   GO2048: {fileID: 4350402117195628873, guid: 81af95e54e488b44cad39bcbdda63bb9, type: 3}
   ScoreText: {fileID: 1669838280}
-  newGameButton: {fileID: 0}
+  newGameButton: {fileID: 6000000005}
+  slideDuration: 0.12
 --- !u!4 &1008982484
 Transform:
   m_ObjectHideFlags: 0

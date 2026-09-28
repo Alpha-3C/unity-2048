@@ -32,7 +32,7 @@ Android 构建需要在 Unity Hub 给当前编辑器安装 **Android Build Suppo
 - `Assets/Scripts/UI/ResponsiveBoardLayout.cs`：横竖屏和安全区域布局。
 - `Assets/Editor/Build2048.cs`：构建入口。
 
-更详细的算法和实现步骤见 [实现案](docs/2048实现案.md)。
+项目流程、算法和学习收获见 [项目学习与实现记录](docs/2048项目学习与实现记录.md)。
 
 ## 素材与参考
 
